@@ -9,7 +9,7 @@ ___
 
 ### :man_technologist: About the project :
 
-- Hi, this is my first project Created while I'm learning web development.
+- Hi, this is my first project when I started learning web development.
 - I used only HTML and CSS in this project.
 - This project is about building a basic shopping cart component.
 - I've taken this project as a challenge from FrontendMentor.io.
